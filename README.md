@@ -1,5 +1,5 @@
-## Hi there 👋
-# 🌱 I’m currently studying in Uniovi
+# Hi there 👋
+## 🌱 I’m currently studying in Uniovi
 
 <!--
 **UO294936/UO294936** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
