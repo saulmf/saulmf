@@ -8,13 +8,13 @@ I’m currently studying the bilingual course on Software Engineering at the Uni
 
 
 ## Stats
-- [Linkedin](https://www.linkedin.com/in/saúl-m-ab72a2353/)
+![saulmf's GitHub stats](https://github-readme-stats.vercel.app/api?username=saulmf&show_icons=true&theme=aura)
 
 ## Languages and Tools:
 
 I have experience with the following technologies:
 
-- **Languages**: Java, JavaScript, C#, C++, C
+- **Languages**: Java, JavaScript, C#, C++, C, Python
 - **Web Development**: React, Node, HTML5, and CSS3 following web accessibility and usability standards
 - **Databases**: MySQL, SQLite, MongoDB, Neo4j
 - **Version Control**: Git, GitHub, BitBucket
