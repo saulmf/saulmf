@@ -1,6 +1,6 @@
 # Hi there 👋
 ## 🌱 I’m currently studying
-I’m currently studying the bilingual course on Software Engineering at the University of Oviedo.
+I’m currently studying the bilingual course on Software Engineering at the University of Oviedo (3rd year).
 
 ## Connect with me:
 
