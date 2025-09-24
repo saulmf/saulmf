@@ -1,7 +1,8 @@
 # Hi there 👋
 ## 🌱 I’m currently studying
 I’m currently studying the bilingual course on Software Engineering at the University of Oviedo (4th year).
-Estoy estudiando el Grado bilingüe de Ingeniería Informática del Sofware en la Universidad de Oviedo (4º año)
+
+Estoy estudiando el Grado bilingüe de Ingeniería Informática del Sofware en la Universidad de Oviedo (4º año).
 
 ## Connect with me:
 
